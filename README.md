@@ -1,5 +1,5 @@
-# Python Scrapper Stackoverflow - Seed
-This is a basic scrapper that fetches answers from a given stackoverflow post url and exports them as a csv file.
+## Python Scrapper Stackoverflow - Seed
+This is a basic scrapper (without any GUI) that fetches answers from a given stackoverflow post url and exports them as a csv file.
 
 Data is exported in following format
 
